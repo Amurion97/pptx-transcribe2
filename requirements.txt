@@ -1,0 +1,9 @@
+# google-api-python-client==1.8.0
+openai~=1.41.0
+python-dotenv~=1.0.1
+google-cloud-storage~=2.18.2
+google~=3.0.0
+protobuf~=5.27.3
+pydub~=0.25.1
+google-cloud-speech~=2.27.0
+Spire.Presentation~=9.3.0
